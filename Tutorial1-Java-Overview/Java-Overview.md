@@ -35,4 +35,4 @@ Before I go ahead with this, let me brief you about why you should choose Java. 
 * __Robust__ − Java makes an effort to eliminate error prone situations by emphasizing mainly on compile time error checking and runtime checking.
 > ### External Resources
 
-[Continue to Java installation and environmental setup](../02-Environmental-Setup/Environmental-Setup.md)
+[Continue to Tutirial2 Java installation and environmental setup](../02-Environmental-Setup/Environmental-Setup.md)
