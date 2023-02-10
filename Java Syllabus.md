@@ -1,4 +1,4 @@
-> __Course Code__:MIT-252 &ensp &emsp &nbsp &nbsp &nbsp &nbsp __Maximum Marks__: 100 <br>
+> __Course Code__:MIT-252                  __Maximum Marks__: 100 <br>
 > __Course Title__:Object Oriented Programming withJava &nbsp  __University Examination__: 60 <br>
 >__L-T-P__: 4-0-0 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    __Internal Assessment__: 40 <br>
 >__Credits__: 4 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp __Duration of Examination__: 3 Hours <br>
