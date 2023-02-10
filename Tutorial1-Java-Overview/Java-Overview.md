@@ -1,6 +1,6 @@
 ># Java basics
 
-# What is Java?
+## What is Java?
 Java is a cross-platform object-oriented programming language that was released by Sun Microsystems in the year 1995. Today, Java is needed to run various applications such as games, social media applications, audio and video applications, etc. 
 
 In this tutorial, I would be covering following topics:
@@ -11,10 +11,10 @@ In this tutorial, I would be covering following topics:
 * Features
 * Components 
 * 
-# What is Java used for?
+## What is Java used for?
 Before I go ahead with this, let me brief you about why you should choose Java. It is highly popular and has dominated this field from early 2000’s till the present 2018. 
 
-# It is used for:
+## It is used for:
 
 * Banking: To deal with transaction management.
 * Retail: Billing applications that you see in a store/restaurant are completely written in Java.
