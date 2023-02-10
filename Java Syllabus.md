@@ -1,7 +1,7 @@
-Course Code:MIT-252                                                        Maximum Marks: 100
-Course Title:Object Oriented Programming withJava                          University Examination: 60
-L-T-P: 4-0-0                                                               Internal Assessment: 40
-Credits: 4                                                                 Duration of Examination: 3 Hours
+__Course Code__:MIT-252                                                        __Maximum Marks__: 100
+__Course Title__:Object Oriented Programming withJava                          __University Examination__: 60
+__L-T-P__: 4-0-0                                                               __Internal Assessment__: 40
+__Credits__: 4                                                                 __Duration of Examination__: 3 Hours
 
 ## Objective
 This course acquaints students with object oriented programming concepts and other advanced
