@@ -1,17 +1,29 @@
-># Java Overview
+># Java basics
 
+# What is Java?
+Java is a cross-platform object-oriented programming language that was released by Sun Microsystems in the year 1995. Today, Java is needed to run various applications such as games, social media applications, audio and video applications, etc. 
 
-Java is a high level programming language originally developed by Sun Microsystems and released in 1995. Currently it is owned by Oracle and nearly 3 billion devices run on Java.
+In this tutorial, I would be covering following topics:
 
-It is used for
-* Mobile Application (Specially for Android devices)
-* Desktop Applications
-* Web Applications
-* Web Servers and application servers
-* Games
-* Database connection
+* What is Java used for?
+* History 
+* What is Java?
+* Features
+* Components 
+* 
+# What is Java used for?
+Before I go ahead with this, let me brief you about why you should choose Java. It is highly popular and has dominated this field from early 2000’s till the present 2018. 
 
-And more things.
+# It is used for:
+
+* Banking: To deal with transaction management.
+* Retail: Billing applications that you see in a store/restaurant are completely written in Java.
+* Information Technology: Java is designed to solve implementation dependencies.
+* Android: Applications are either written in Java or use Java API.
+* Financial services: It is used in server-side applications.
+* Stock market: To write algorithms as to which company they should invest in.  
+* Big Data: Hadoop MapReduce framework is written using Java.
+* Scientific and Research Community: To deal with huge amount of data.
 
 ## Why to learn Java programming?
 * __Object Oriented__ − In Java everything is an Object. Java can be easily extended since it is based on Object model.
@@ -21,7 +33,6 @@ And more things.
 * __Architecture-neutral__ − Java compiler generates an architecture-neutral object file format, which makes the compiled code executable on many processors, with the presence of Java runtime system.
 * __Portable__ − Being architecture-neutral and having no implementation dependent aspects of the specification makes Java portable. Compiler in Java is written in ANSI C with a clean portability boundary, which is a POSIX subset.
 * __Robust__ − Java makes an effort to eliminate error prone situations by emphasizing mainly on compile time error checking and runtime checking.
-
 > ### External Resources
 
 [Continue to Java installation and environmental setup](../02-Environmental-Setup/Environmental-Setup.md)
