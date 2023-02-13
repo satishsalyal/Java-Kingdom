@@ -60,7 +60,3 @@ public class Operators {
 	a != b :true   
 	x == y : false   
 	condition==true :true
-
-## External Resources
-
-* [Alex Lee](https://www.youtube.com/watch?v=jRdPsDjW8DY&list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ&index=11)
