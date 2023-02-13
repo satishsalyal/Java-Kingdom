@@ -112,18 +112,3 @@ class UseSuper {
     i in superclass: 1
     i in subclass: 2
 
-Although the instance variable `i` in `B` hides the `i` in `A`, super allows access to the `i` defined in the superclass.
-
-Methods of superclass can also be accessed in the same way.
-
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/super.html)
-* [JavaTPoint](https://www.javatpoint.com/super-keyword)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/super-keyword/)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of current section.
