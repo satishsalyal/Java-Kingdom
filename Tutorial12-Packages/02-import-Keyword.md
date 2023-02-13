@@ -62,9 +62,3 @@ class TestBalance {
 ##### Output
 
     J. J. Jaspers: $99.88
-
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/package/usepkgs.html)
