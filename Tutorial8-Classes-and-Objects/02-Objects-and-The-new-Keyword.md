@@ -40,16 +40,3 @@ same object.
 
 The assignment of `b1` to `b2` did not allocate any memory or copy any part of the original object. It simply makes `b2` refer to the same object as does `b1`. Thus, any changes made to the object through `b2` will affect the object to which `b1` is referring, since they are the same object.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
-* [JavaTPoint](https://www.javatpoint.com/object-and-class-in-java)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/classes-objects-java/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=ZHLdVRXIuC8&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=19)
-* [Cave of Programming](https://www.youtube.com/watch?v=OHw2t8BaIUg&list=PL9DF6E4B45C36D411&index=14)
-* [Alex Lee](https://www.youtube.com/watch?v=vjjjGkXpX_I&list=PL59LTecnGM1Pr-IoQS2JlTnEXOV28-KNg&index=10)
