@@ -107,5 +107,3 @@ General form:
 
 ## External Resources
 
-### Youtube Videos
-* [Installation](https://www.youtube.com/watch?v=IJ-PJbvJBGs)
