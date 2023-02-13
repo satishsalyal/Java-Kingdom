@@ -115,16 +115,3 @@ class OtherPackage {
 
 The two classes defined in `p2` cover the other two conditions that are affected by access control. The first class, `Protection2`, is a subclass of `p1.Protection`. This grants access to all of __p1.Protection__’s variables except for `n_pri` (because it is private) and `n`, the variable declared with the default protection. Remember, the default only allows access from within the class or the package, not extrapackage subclasses. Finally, the class `OtherPackage` has access to only one variable, `n_pub`, which was declared public.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-* [JavaTPoint](https://www.javatpoint.com/access-modifiers)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/access-modifiers-java/)
-
-### Youtube Videos
-
-* [Cave of Programming](https://www.youtube.com/watch?v=3n1cvoDL1qw&list=PL9DF6E4B45C36D411&index=25)
-
-### More Examples and Practice Questions
