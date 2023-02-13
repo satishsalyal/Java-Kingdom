@@ -116,20 +116,6 @@ class Dispatch {
 
 As the output shows, the version of `callme()` executed is determined by the type of object being referred to at the time of the call. Had it been determined by the type of the reference variable, `r`, you would see three calls to A’s `callme()` method.
 
-## External Resources
 
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/override.html)
-* [JavaTPoint](https://www.javatpoint.com/method-overriding-in-java)
-* [GeeksForGeeks (Method Overriding)](https://www.geeksforgeeks.org/overriding-in-java/)
-* [GeeksForGeeks (Dynamic Method Dispatch)](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=rVSlCg2ttZ0&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=27)
-* [Cave of Programming](https://www.youtube.com/watch?v=wzW-251bGgM&list=PL9DF6E4B45C36D411&index=22)
-
-### More Examples and Practice Questions
 
 Provided in the last chapter of the current section.
