@@ -92,10 +92,4 @@ Even though `A` is a superclass for `B`, it is also a completely independent, st
 Although a subclass includes all of the members of its superclass, it cannot access those
 members of the superclass that have been declared as private.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
-* [JavaTPoint](https://www.javatpoint.com/inheritance-in-java)
 
