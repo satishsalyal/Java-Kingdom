@@ -89,15 +89,3 @@ then the class path to `MyPack` is
 
     C:\MyPrograms\Java
 
-## External Resources
-
-### Readings
-
-* [Oracel Tutorials](https://docs.oracle.com/javase/tutorial/java/package/index.html)
-* [JavaTPoint](https://www.javatpoint.com/package)
-* [GeeksForGeeks - Packages](https://www.geeksforgeeks.org/packages-in-java/)
-* [GeeksForGeeks - CLASSPATH](https://www.geeksforgeeks.org/classpath-in-java/)
-
-### Youtube Videos
-
-* [Cave of Programming](https://www.youtube.com/watch?v=BT5Nk2aIRJg&list=PL9DF6E4B45C36D411&index=24)
