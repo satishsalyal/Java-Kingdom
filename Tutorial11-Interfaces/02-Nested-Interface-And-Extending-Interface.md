@@ -86,13 +86,3 @@ Notice that A defines a member interface called `NestedIF` and that it is declar
 Notice that the name is fully qualified by the enclosing class’ name. Inside the `main()` method, an `A.NestedIF` reference called nif is created, and it is assigned a reference to a `B` object. Because `B` implements `A.NestedIF`, this is legal.
 
 
-## External Resources
-
-### Readings
-
-[Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html)
-[JavaTPoint](https://www.javatpoint.com/interface-in-java)
-
-### More Examples and Practice Questions
-
-[W3Schools](https://www.w3schools.com/java/java_interface.asp)
