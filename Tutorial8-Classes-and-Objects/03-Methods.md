@@ -160,19 +160,3 @@ class BoxDemo {
 
 An object can also be returned from a method by specifying appropriate return type as name of the class.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
-* [JavaTPoint](https://www.javatpoint.com/method-in-java)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/methods-in-java/)
-* [Beginners Book - Overloading](https://beginnersbook.com/2013/05/method-overloading/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=o5dcpcuyuIA&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=16)
-* [ProgrammingKnowledge - Parameters](https://www.youtube.com/watch?v=c7iU8ZFA9gQ&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=17)
-* [ProgramminKnowledge - Overloading](https://www.youtube.com/watch?v=pBe4hLdrMHA&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=20)
-* [Cave of Programming](https://www.youtube.com/watch?v=-eoNHtILOs4&list=PL9DF6E4B45C36D411&index=14)
-* [Cave of Programming - Parameters](https://www.youtube.com/watch?v=fXVI4xuvozg&list=PL9DF6E4B45C36D411&index=16)
