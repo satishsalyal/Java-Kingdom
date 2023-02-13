@@ -114,17 +114,3 @@ In summary, there are three important features of the `switch` statement to note
 * No two `case` constants in the same `switch` can have identical values. Of course, a `switch` statement and an enclosing outer `switch` can have `case` constants in common.
 * A `switch` statement is usually more efficient than a set of nested `if`s
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-* [JavaTPoint](https://www.javatpoint.com/java-switch)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/switch-statement-in-java/)
-* [Biginners Book](https://beginnersbook.com/2017/08/java-switch-case/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=L5_7XQR0r0w&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=10)
-* [Cave of Programming](https://www.youtube.com/watch?v=oLpUfseieuE&list=PL9DF6E4B45C36D411&index=9)
-* [Alex Lee](https://www.youtube.com/watch?v=O4KGYGQvHmw&list=PL59LTecnGM1Mg6I4i_KbS0w5bPcDjl7oz&index=8)
