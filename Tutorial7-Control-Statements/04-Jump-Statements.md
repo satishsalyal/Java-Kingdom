@@ -169,16 +169,3 @@ class ContinueLabel {
     0 8 16 24 32 40 48 56 64
     0 9 18 27 36 45 54 63 72 81
 
-## External Sources
-
-### Readings
-
-* JavaTPoint
-  * [break](https://www.javatpoint.com/java-break)
-  * [continue](https://www.javatpoint.com/java-continue)
-* Beginners Book
-  * [break](https://beginnersbook.com/2017/08/java-break-statement/)
-  * [continue](https://beginnersbook.com/2017/08/java-continue-statement/)
-* GeeksForGeeks
-  * [break](https://www.geeksforgeeks.org/break-statement-in-java/)
-  * [continue](https://www.geeksforgeeks.org/break-and-continue-statement-in-java/)
