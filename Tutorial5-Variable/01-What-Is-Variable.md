@@ -231,14 +231,3 @@ public class EmpDemo {
 	Harsh's average salary:1000.0
 
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
-* [JavaTPoint](https://www.javatpoint.com/java-variables)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/variables-in-java/)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of current section.
