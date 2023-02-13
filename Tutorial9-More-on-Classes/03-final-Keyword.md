@@ -25,13 +25,3 @@ Declaring a parameter `final` prevents it from being changed within the method.
 Declaring a local variable `final` prevents it from being assigned a value more than once.
 
 The keyword final can also be applied to methods, but its meaning is substantially different than when it is applied to variables. This additional usage of final is described in the next section, when inheritance is described.
-
-## External Resources
-
-* [Oracel Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/final.html)
-* [JavaTPoint](https://www.javatpoint.com/final-keyword)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/final-keyword-java/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=aN8znC-ME-w&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=24)
