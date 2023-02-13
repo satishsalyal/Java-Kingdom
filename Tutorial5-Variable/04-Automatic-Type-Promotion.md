@@ -36,11 +36,3 @@ b = (byte) (b * 2);
 ```
 
 which yields the correct value of `100`.
-
-## External Resources
-
-#### More Examples and Practice Questions
-
-* [CodesDope](https://www.codesdope.com/practice/java-operators/)
-* [GeeksForGeeks - Quiz 1](https://www.geeksforgeeks.org/output-java-programs-set-21-type-conversions/?ref=lbp)
-* [GeeksForGeeks - Quiz 2](https://www.geeksforgeeks.org/output-java-programs-set-45-static-instance-variables/)
