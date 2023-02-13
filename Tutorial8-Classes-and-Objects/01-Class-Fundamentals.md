@@ -87,16 +87,4 @@ class BoxDemo {
 
 You should call the file that contains this program `BoxDemo.java`, because the `main()` method is in the class called `BoxDemo`, not the class called `Box`. When you compile this program, you will find that two `.class` files have been created, one for `Box` and one for `BoxDemo`. The Java compiler automatically puts each class into its own .class file. It is not necessary for both the `Box` and the `BoxDemo` class to actually be in the same source file. You could put each class in its own file, called `Box.java` and `BoxDemo.java`, respectively, which is the recommeded way.
 
-## External Resources
 
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
-* [JavaTPoint](https://www.javatpoint.com/object-and-class-in-java)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/classes-objects-java/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=ZHLdVRXIuC8&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=19)
-* [Cave of Programming](https://www.youtube.com/watch?v=OHw2t8BaIUg&list=PL9DF6E4B45C36D411&index=14)
-* [Alex Lee](https://www.youtube.com/watch?v=vjjjGkXpX_I&list=PL59LTecnGM1Pr-IoQS2JlTnEXOV28-KNg&index=10)
