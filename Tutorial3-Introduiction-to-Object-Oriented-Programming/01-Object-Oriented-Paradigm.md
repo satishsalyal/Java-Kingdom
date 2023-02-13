@@ -55,7 +55,3 @@ Now looking at this you know what car it actually is. This is called an object o
 * OOPs provides data hiding, whereas, in a procedure-oriented programming language, global data can be accessed from anywhere.
 * OOPs provides the ability to simulate real-world event much more effectively. We can provide the solution of real word problem if we are using the Object-Oriented Programming language.
 
-## External Resources
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-* [JavaTPoint](https://www.javatpoint.com/java-oops-concepts)
