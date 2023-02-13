@@ -146,19 +146,3 @@ As you know, it is illegal in Java to declare two local variables with the same 
 
 Because `this` lets you refer directly to the object, you can use it to resolve any namespace collisions that might occur between instance variables and local variables. In the above example, the version of `Box()`, which uses `width`, `height`, and `depth` for parameter names and then uses `this` to access the instance variables by the same name
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html)
-* [JavaTPoint](https://www.javatpoint.com/java-constructor)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/constructors-in-java/)
-* [Beginners Book](https://beginnersbook.com/2013/03/constructors-in-java/)
-* [JavaTPoint - 'this' Keyword](https://www.javatpoint.com/this-keyword)
-* [GeeksForGeeks - 'this' Keyword](https://www.geeksforgeeks.org/this-reference-in-java/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=0Jc_rT7t1W8&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=19)
-* [Cave of Programming](https://www.youtube.com/watch?v=oSiN1J_G01Q&list=PL9DF6E4B45C36D411&index=18)
-* [Alex Lee](https://www.youtube.com/watch?v=G1Iln3PSrUg&list=PL59LTecnGM1Pr-IoQS2JlTnEXOV28-KNg&index=4)
