@@ -16,14 +16,3 @@ There is one special class, `Object`, defined by Java. All other classes are sub
 |`String toString()`|Returns a string that describes the object.|
 |`void wait( )`, `void wait(long milliseconds)`, `void wait(long milliseconds, int nanoseconds)`|Waits on another thread of execution.|
 
-## Exteranl Resources
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/objectclass.html)
-* [JavaTPoint](https://www.javatpoint.com/object-class)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/object-class-in-java/)
-
-#### More Examples and Practice Questions
-
-* [CodesDope](https://www.codesdope.com/practice/java-subclass/)
-* [JavaConceptOfTheDay](https://javaconceptoftheday.com/java-inheritance-practice-coding-questions/)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/)
-* [Sanfoundary](https://www.sanfoundry.com/java-mcqs-inheritance/)
