@@ -186,13 +186,3 @@ In general, a set of curly brackets `{ }` defines a scope.
 
 * For a variable to be read after the termination of a loop, It must be declared before the body of the loop.
 
-## External Resources
-
-### Readings
-
-* [JavaTPoint](https://www.javatpoint.com/java-variables)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/variables-in-java/)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of current section.
