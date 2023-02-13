@@ -146,13 +146,3 @@ class DefaultMethodDemo {
 
 Thus, for `getString()`, implementation by a class is optional. (Of course, its implementation by a class will be required if the class uses `getString()` for some purpose beyond that supported by its default.)
 
-#### Static Methods
-
-Starting from Java 8 another new capability to interface was added: the ability to define one or more static methods. Like static methods in a class, a static method defined by an interface can be called independently of any object. Static interface methods are not inherited by either an implementing class or a subinterface.
-
-
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html)
