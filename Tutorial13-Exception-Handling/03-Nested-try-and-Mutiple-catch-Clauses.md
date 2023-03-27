@@ -154,18 +154,3 @@ This program will cause a division-by-zero exception if it is started with no co
 
 When you use multiple catch statements, it is important to remember that exception subclasses must come before any of their superclasses. This is because a catch statement that uses a superclass will catch exceptions of that type plus any of its subclasses. Thus, a subclass would never be reached if it came after its superclass. Further, in Java, unreachable code is an error.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/catch.html)
-* [JavaTPoint - Multiple catch Clauses](https://www.javatpoint.com/multiple-catch-block-in-java)
-* [JavaTPoint - Nested try](https://www.javatpoint.com/nested-try-block)
-
-### Youtube Videos
-
-* [Cave of Programming](https://www.youtube.com/watch?v=odhReeuuCXo&list=PL9DF6E4B45C36D411&index=36)
-
-#### More Examples and Practice Questions
-
-Provided in the last chapter of this section
