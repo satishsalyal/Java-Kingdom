@@ -34,17 +34,3 @@ __Blocked__: A java thread can be blocked when waiting for a resource.
 
 __Terminated (Dead)__: A thread can be terminated, which halts its execution immediately at any given time. Once a thread is terminated, it cannot be resumed.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)
-* [JavaTPoint](https://www.javatpoint.com/multithreading-in-java)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=b5sj13Z7aho&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=42)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of current section
