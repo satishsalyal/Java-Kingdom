@@ -95,20 +95,3 @@ class ThrowsDemo {
 |used within a method|used with method signature (method declaration)|
 |Cannot throw multiple exceptions|can declare multiple exceptions (separated by commas) using throws keyword|
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/throwing.html)
-* JavaTPoint
-  * [throw](https://www.javatpoint.com/throw-keyword)
-  * [Exception Propagation](https://www.javatpoint.com/exception-propagation)
-  * [throws](https://www.javatpoint.com/throws-keyword-and-difference-between-throw-and-throws)
-
-### Youtube Videos
-
-* [Cave of Programming](https://www.youtube.com/watch?v=5pPPtRtCBHw&list=PL9DF6E4B45C36D411&index=35)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of this section
