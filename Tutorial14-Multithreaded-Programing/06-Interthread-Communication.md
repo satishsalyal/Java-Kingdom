@@ -210,15 +210,3 @@ try{
     System.out.println(ex.getMessage());
 }
 ```
-
-## External Resources
-
-### Readings
-
-* [JavaTPoint](https://www.javatpoint.com/inter-thread-communication-example)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/inter-thread-communication-java/)
-  
-### More Examples and Practice Questions
-
-* [Tutorial Docs](https://www.tutorialdocs.com/article/java-inter-thread-communication.html)
-* More provided in the last section of current section.
