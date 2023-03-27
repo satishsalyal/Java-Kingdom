@@ -160,14 +160,10 @@ The program will generate an `ArithmeticException` when the division by zero is 
 
 ### Readings
 
-* [Oracle Tutorials - Chained Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/chained.html)
-* [Oracle Tutorials - try-with-resources](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html)
 * [GeeksForGeeks - multi-catch](https://www.geeksforgeeks.org/multicatch-in-java/?ref=lbp)
 
 ### More Examples and Practice Questions and Quizes
 
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/essential/exceptions/QandE/questions.html)
-* [JavaTPoint Quiz 1](https://www.javatpoint.com/directload.jsp?val=89)
+
 * [JavaTPoint Quiz 2](https://www.javatpoint.com/directload.jsp?val=96)
 * [JavaTPoint Quiz 3](https://www.javatpoint.com/directload.jsp?val=101)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/output-java-program-set-12exception-handling/)
