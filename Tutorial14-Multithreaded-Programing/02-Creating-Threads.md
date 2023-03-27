@@ -141,19 +141,3 @@ public Thread(String threadName)
 
 At this point, you might be wondering why Java has two ways to create child threads, and which approach is better. The answers to these questions turn on the same point. The `Thread` class defines several methods that can be overridden by a derived class. Of these methods, the only one that must be overridden is `run()`. This is, of course, the same method required when you implement `Runnable`. Many Java programmers feel that classes should be extended only when they are being enhanced or modified in some way. So, if you will not be overriding any of Thread’s other methods, it is probably best simply to implement `Runnable`. Also, by implementing `Runnable`, your thread class does not need to inherit `Thread`, making it free to inherit a different class. Ultimately, which approach to use is up to you.
 
-## External Resources
-
-### Readings
-
-* [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html)
-* [JavaTPoint](https://www.javatpoint.com/creating-thread)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/multithreading-in-java/)
-
-### Youtube Videos
-
-* [ProgrammingKnowledge - By Exteding Thread](https://www.youtube.com/watch?v=0ySznjdXMEA&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=43)
-* [ProgrammingKnowledge - By Implementing Runnable](https://www.youtube.com/watch?v=UXW5a-iHjso&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=44)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of the current section
