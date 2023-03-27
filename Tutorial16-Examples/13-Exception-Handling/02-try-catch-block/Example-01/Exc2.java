@@ -1,7 +1,6 @@
 /**
  * 
- * DevCans - Java A-to-Z Resources
- * @author - Prateek Kumar Oraon
+
  * 
  */
 
