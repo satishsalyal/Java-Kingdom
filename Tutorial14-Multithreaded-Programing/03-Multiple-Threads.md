@@ -179,10 +179,3 @@ class DemoJoin {
 
 * [JavaTPoint](https://www.javatpoint.com/join()-method)
 
-### Youtube Videos
-
-* [ProgrammingKnowledge](https://www.youtube.com/watch?v=8bSlaGsG4dk&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al&index=45)
-
-### More Examples and Practice Questions
-
-Provided in the last chapter of current section.
