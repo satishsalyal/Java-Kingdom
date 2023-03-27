@@ -95,13 +95,6 @@ This example defines a subclass of Exception called `MyException`. This subclass
     Called compute(20)
     Caught MyException[20]
 
-## External Resources
 
-### Readings
-
-* [JavaTPoint](https://www.javatpoint.com/custom-exception)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/g-fact-32-user-defined-custom-exception-in-java/)
-
-### More Examples and Practice Questions
 
 Provided in the last chapter of this section
