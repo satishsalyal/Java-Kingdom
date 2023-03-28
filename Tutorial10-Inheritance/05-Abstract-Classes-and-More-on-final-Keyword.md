@@ -9,7 +9,45 @@
 - Abstract methods are methods that do not have an implementation in the abstract class, but must be implemented by any concrete subclass that extends the abstract class. 
 - Non-abstract methods, on the other hand, have an implementation in the abstract class and can be inherited by any subclass.
 
-To implement an abstract class in Java, you first need to declare it as abstract using the ```java abstract ``` keyword in the class declaration. Then, you can define abstract methods within the class using the same ```java abstract ``` keyword. Here is an example:
+To implement an abstract class in Java, you first need to declare it as abstract using the ```java abstract ``` keyword in the class declaration. Then, you can define abstract methods within the class using the same ```java abstract ``` keyword.
+
+## Features of Abstract Class
+
+### Template
+The abstract class in Java enables the best way to execute the process of data abstraction by providing the developers with the option of hiding the code implementation. It also presents the end-user with a template that explains the methods involved.
+
+### Loose Coupling
+Data abstraction in Java enables loose coupling, by reducing the dependencies at an exponential level.
+
+### Code Reusability
+Using an abstract class in the code saves time. We can call the abstract method wherever the method is necessary. Abstract class avoids the process of writing the same code again.
+
+### Abstraction
+Data abstraction in Java helps the developers hide the code complications from the end-user by reducing the project's complete characteristics to only the necessary components.
+
+### Dynamic Resolution
+Using the support of dynamic method resolution, developers can solve multiple problems with the help of one abstract method.
+
+**_Before moving forward, let’s first understand how to declare an abstract class._**
+
+The Syntax for Abstract Class
+To declare an abstract class, we use the access modifier first, then the "abstract" keyword, and the class name shown below.
+```java
+//Syntax:
+
+<Access_Modifier> abstract class <Class_Name> {
+
+//Data_Members;
+
+//Statements;
+
+//Methods;
+
+}
+```java
+
+
+Here is an example:
 
 ##### [Example 01](../20-Examples/10-Inheritance/05-Abstract-Classes-and-More-on-final-Keyword/Example-01/)
 
