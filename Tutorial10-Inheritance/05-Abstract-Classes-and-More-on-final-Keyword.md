@@ -44,7 +44,7 @@ To declare an abstract class, we use the access modifier first, then the "abstra
 //Methods;
 
 }
-```java
+```
 
 
 Here is an example:
