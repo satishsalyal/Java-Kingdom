@@ -18,6 +18,9 @@ To implement an abstract class in Java, you first need to declare it as abstract
 abstract class Animal{
    //abstract method
    public abstract void sound();
+    //Non-abstract method
+   public void eat() {
+      System.out.println("Eating...");
 }
 ```
 
