@@ -2,21 +2,14 @@
 
 ## Abstract Class
 
-An abstract class is a class that is declared abstract using the `abstract` keyword. It may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be subclassed.
+- In Java, an abstract class is a class that cannot be instantiated directly, but can be subclassed by other classes. 
+- It is designed to be used as a base class or template for other classes to extend from.
 
-Sometimes you will need to define a superclass that declares the structure of a given abstraction without providing a complete implementation of every method. That is, sometimes you will want to create a superclass that only defines a generalized form that will be shared by all of its subclasses, leaving it to each subclass to fill in the details. Such a class determines the nature of the methods that the subclasses must implement.
+- An abstract class can have both abstract and non-abstract methods. 
+- Abstract methods are methods that do not have an implementation in the abstract class, but must be implemented by any concrete subclass that extends the abstract class. 
+- Non-abstract methods, on the other hand, have an implementation in the abstract class and can be inherited by any subclass.
 
-To declare an abstract class, use this general form:
-
-```java
-abstract class ClassName
-```
-
-An abstract class can have an abstract method as well as concrete methods. Abstract methods have no implementation in the superclass. It is the responsibility of the subclass to implement the method. Abstract method in superclass can be declared using this general form:
-
-```java
-abstract return_type name(parameter_list);
-```
+To implement an abstract class in Java, you first need to declare it as abstract using the ```java abstract ``` keyword in the class declaration. Then, you can define abstract methods within the class using the same ```java abstract ``` keyword. Here is an example:
 
 ##### [Example 01](../20-Examples/10-Inheritance/05-Abstract-Classes-and-More-on-final-Keyword/Example-01/)
 
