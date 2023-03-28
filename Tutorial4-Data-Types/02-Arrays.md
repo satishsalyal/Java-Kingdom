@@ -1,6 +1,10 @@
 ># Arrays
 
-An array stores a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type. A specific element in an array is accessed by its index. Arrays offer a convenient means of grouping related information. Indexing in and array starts at _0_ to _n-1_ where _n_ is the length of array
+- An array stores a fixed-size sequential collection of elements of the same type.
+-  An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+-   A specific element in an array is accessed by its index. 
+-   Arrays offer a convenient means of grouping related information. 
+-   Indexing in and array starts at _0_ to _n-1_ where _n_ is the length of array
 
 ## One Dimensional Array
 
