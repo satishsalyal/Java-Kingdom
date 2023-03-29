@@ -71,7 +71,8 @@ Besides those mentioned above, there are various string methods present in Java.
 
 - String length(): The length() method is used to find the length of a string. 
    The syntax of the length() method is as follows:
-   ```java
+   
+```java
    String str = "Hello World";
 int len = str.length();  // len will be 11
 ```
@@ -82,43 +83,40 @@ The syntax of the substring() method is as follows:
 ```java
 String str = "Hello World";
 String subStr = str.substring(0, 5);  // subStr will be "Hello"
-
 ```
 - String equals(String anotherString): The equals() method is used to compare two strings.
--  The syntax of the equals() method is as follows:
+The syntax of the equals() method is as follows:
 
 ```java
 String str1 = "Hello";
 String str2 = "World";
 boolean result = str1.equals(str2);  // result will be false
-
 ```
 
 - String compareTo(String anotherString): The compareTo() method is used to compare two strings lexicographically. 
   The syntax of the compareTo() method is as follows:
   
   ```java
-String str1 = "Hello";
-String str2 = "World";
-int result = str1.compareTo(str2);  // result will be negative (-15)
-
+      String str1 = "Hello";
+      String str2 = "World";
+      int result = str1.compareTo(str2);  // result will be negative (-15)
    ```
+   
 - String concat(String str): The concat() method is used to concatenate two strings. 
 The syntax of the concat() method is as follows:
 
 ```java
-String str1 = "Hello";
-String str2 = "World";
-String result = str1.concat(str2);  // result will be "HelloWorld"
-
+      String str1 = "Hello";
+      String str2 = "World";
+      String result = str1.concat(str2);  // result will be "HelloWorld"
 ```
 
 - String replace(char oldChar, char newChar): The replace() method is used to replace all occurrences of a character in a string with another character.
 The syntax of the replace() method is as follows
 
 ```java
-String str = "Hello World";
-String result = str.replace('o', 'a');  // result will be "Hella Warld"
+    String str = "Hello World";
+    String result = str.replace('o', 'a');  // result will be "Hella Warld"
 
 ```
 
