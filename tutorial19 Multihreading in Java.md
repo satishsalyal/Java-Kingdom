@@ -80,29 +80,28 @@ Since threads are independent, other threads don’t get affected even if an exc
 The following are methods used for Multithreading in Java.
 
 Methods	Description
-**void start()**	Causes the Thread to begin execution
-**void run()**	Utilised to carry out a thread's action.
-**long getId()**	Returns the identifier of the thread
-**final String getName()**	Returns the threads name
-**final void setName(String name)**	Sets the name of the thread
-**final int getPriority()**	Returns thread’s priority
-**final void setPriority(int newPriority)**	Changes the priority if the thread
-**boolean isAlive()**	It checks to see if the Thread is alive.
-**void suspend()**	It is used to suspend the Thread.
-**void resume()**	The suspended Thread is resumed using it.
-**void stop()**	The Thread is stopped using it.
-**void destroy()**	The thread group and all of its subgroups are destroyed using it.
-**static void sleep(long millis)** throws InterruptedException	Causes the currently executing Thread to sleep (temporarily cease execution)
-for the specified number of milliseconds.
-final void join() throws InterruptedException	Waits for the Thread to die
-**void interrupt()**	It interrupts the Thread.
-**boolean isinterrupted()**	It checks to see if the Thread has been interrupted.
-**static boolean interrupted()**	It checks to see whether the current Thread has been interrupted.
-**static int activeCount()**	It gives back how many threads are currently active in the thread group of the current Thread.
-**void checkAccess()**	It determines if the currently running Thread has permission to modify the Thread.
-**Thread.State getState()**	It is used to return the state of the Thread.
-**void notify()**	It is used to give the notification for only one Thread that is waiting for a particular object.
-**void notifyAll()**	It is used to give notification to all waiting threads of a particular object.
+- **void start()**	Causes the Thread to begin execution
+- **void run()**	Utilised to carry out a thread's action.
+- **long getId()**	Returns the identifier of the thread
+- **final String getName()**	Returns the threads name
+- **final void setName(String name)**	Sets the name of the thread
+- **final int getPriority()**	Returns thread’s priority
+- **final void setPriority(int newPriority)**	Changes the priority if the thread
+- **boolean isAlive()**	It checks to see if the Thread is alive.
+- **void suspend()**	It is used to suspend the Thread.
+- **void resume()**	The suspended Thread is resumed using it.
+- **void stop()**	The Thread is stopped using it.
+- **void destroy()**	The thread group and all of its subgroups are destroyed using it.
+- **static void sleep(long millis)** throws InterruptedException	Causes the currently executing Thread to sleep (temporarily cease execution) for the specified number of milliseconds.
+- **final void join()** throws InterruptedException	Waits for the Thread to die
+- **void interrupt()**	It interrupts the Thread.
+- **boolean isinterrupted()**	It checks to see if the Thread has been interrupted.
+- **static boolean interrupted()**	It checks to see whether the current Thread has been interrupted.
+- **static int activeCount()**	It gives back how many threads are currently active in the thread group of the current Thread.
+- **void checkAccess()**	It determines if the currently running Thread has permission to modify the Thread.
+- **Thread.State getState()**	It is used to return the state of the Thread.
+- **void notify()**	It is used to give the notification for only one Thread that is waiting for a particular object.
+- **void notifyAll()**	It is used to give notification to all waiting threads of a particular object.
 
 ### 1. Extending the Thread class:
 ```java
