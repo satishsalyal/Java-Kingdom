@@ -35,9 +35,11 @@ method. Then, you can pass an instance of this class to a Thread object.
 - Interrupting Threads: Using the interrupt() method to interrupt the execution of a thread, causing it to throw an InterruptedException if it's in a blocked or waiting state.
 
 ## What is Multithreading in Java?
-Multithreading is a feature in Java that concurrently executes two or more parts of the program for utilizing the CPU at its maximum. The part of each program is called Thread which is a lightweight process.
+Multithreading is a feature in Java that concurrently executes two or more parts of the program for utilizing the CPU at its maximum. 
+The part of each program is called Thread which is a lightweight process.
 
-According to the definition, it can be deduced that it expands the concept of multitasking in the program by allowing certain operations to be divided into smaller units using a single application.
+According to the definition, it can be deduced that it expands the concept of multitasking in the program by allowing certain operations to
+be divided into smaller units using a single application.
 
 Each Thread operates concurrently and permits the execution of multiple tasks inside the same application.
 
@@ -54,10 +56,10 @@ In this, a common space of address is shared by all threads.	               Ever
 
 ## How does Java Support Multithreading?
 
-Java supports multithreading through its built-in features for creating and managing threads. It provides a Thread class that can 
-be extended to create custom threads or Runnable interface to define tasks for threads. To use it, you can either extend the Thread 
-class and override its run() method to define the thread's task or implement the Runnable interface and pass an instance of the class 
-to the Thread constructor. The start() method is then called to begin the execution of the thread, which runs concurrently with other
+Java supports multithreading through its built-in features for creating and managing threads. It provides a __Thread__ class that can 
+be extended to create custom threads or __Runnable__ interface to define tasks for threads. To use it, you can either extend the Thread 
+class and override its __run()__ method to define the thread's task or implement the Runnable interface and pass an instance of the class 
+to the Thread constructor. The __start()__ method is then called to begin the execution of the thread, which runs concurrently with other
 threads in the JVM, enabling multithreading capabilities.
 
 What are the different types of threads?
@@ -89,7 +91,8 @@ Methods	Description
 **void resume()**	The suspended Thread is resumed using it.
 **void stop()**	The Thread is stopped using it.
 **void destroy()**	The thread group and all of its subgroups are destroyed using it.
-**static void sleep(long millis)** throws InterruptedException	Causes the currently executing Thread to sleep (temporarily cease execution) for the specified number of milliseconds.
+**static void sleep(long millis)** throws InterruptedException	Causes the currently executing Thread to sleep (temporarily cease execution)
+for the specified number of milliseconds.
 final void join() throws InterruptedException	Waits for the Thread to die
 **void interrupt()**	It interrupts the Thread.
 **boolean isinterrupted()**	It checks to see if the Thread has been interrupted.
