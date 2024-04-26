@@ -48,13 +48,14 @@ Each Thread operates concurrently and permits the execution of multiple tasks in
 | Multithreading                                                |     Multiprocessing                                              |
 |:--------------:                                               |:--------------------:                                            |
 | In this, multiple threads are created for    	                | In this, CPUs are added in order to increase computational power |
-|:-----------------------------------------------------------   |:---------------------------------------------------------------  |
+|increasing computational power using a single process          |                                                                  |
+|:-----------------------------------------------------------:  |:---------------------------------------------------------------: |
 |Many threads of a process are executed simultaneously.	        |                    Many processes are executed simultaneously.   |
-|:------------------------------------------------------------  |:---------------------------------------------------------------  |
+|:------------------------------------------------------------: |:---------------------------------------------------------------: |
 |It is not classified into any categories.	                     |        Classified into two categories, symmetric and asymmetric. |
 |:------------------------------------------------------------  |:--------------------------------------------------------------   |
 |The creation of a process is economical.                       |                    	Creation of a process is time-consuming.     |
-|---------------------------------------------------------------|------------------------------------------------------------      |
+|-------------------------------------------------------------: |:------------------------------------------------------------:    |
 |In this, a common space of address is shared by all threads.	  |           Every process in this owns a separate space of address.|
 
 
