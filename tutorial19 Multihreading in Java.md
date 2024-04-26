@@ -45,9 +45,11 @@ Each Thread operates concurrently and permits the execution of multiple tasks in
 
 ## Multithreading vs. Multiprocessing in Java
 
-Multithreading                                |                                    Multiprocessing
----------------------------------------------------------------------------------------------------------------------------
-In this, multiple threads are created for    	             |           In this, CPUs are added in order to increase computational power. 
+| Multithreading |     Multiprocessing  |
+|:--------------:|:--------------------:|
+
+
+| In this, multiple threads are created for    	             |           In this, CPUs are added in order to increase computational power. 
 increasing computational power using a single process.  
 ---------------------------------------------------------------------------------------------------------------------------
 Many threads of a process are executed simultaneously.	                          Many processes are executed simultaneously.
